@@ -1,0 +1,80 @@
+{
+    "contact": {
+        "location": "Dehradun, India",
+        "email": "shubham124rawat@gmail.com",
+        "phone": "+91-9119757205"
+    },
+    "social": [
+        {
+            "label": "GitHub",
+            "href": "https://github.com/shubham124rawat"
+        },
+        {
+            "label": "Discord",
+            "href": "https://discord.gg/3br6Vvnj8"
+        },
+        {
+            "label": "Linkedin",
+            "href": "https://www.linkedin.com/in/shubham-rawat-0aa030355/"
+        }
+    ],
+    "stack": {
+        "frontend": [
+            {
+                "name": "React",
+                "icon": "/stack/react.svg",
+                "featured": true
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "/stack/tailwindcss.svg",
+                "featured": true
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node.js",
+                "icon": "/stack/nodejs.svg",
+                "featured": true
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL",
+                "icon": "/stack/mysql.svg",
+                "featured": true
+            },
+            {
+                "name": "MongoDB",
+                "icon": "/stack/mongodb.svg"
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "icon": "/stack/git.svg"
+            },
+            {
+                "name": "Vercel",
+                "icon": "/stack/vercel.svg"
+            },
+            {
+                "name": "LangChain",
+                "icon": "/stack/langchain.svg"
+            },
+            {
+                "name": "OpenAI",
+                "icon": "/stack/openai.svg"
+            },
+            {
+                "name": "GitHub",
+                "icon": "/stack/github.svg"
+            },
+            {
+                "name": "Cloudinary",
+                "icon": "/stack/cloudinary.svg"
+            }
+        ]
+    }
+}
+

@@ -1,0 +1,104 @@
+{
+    "about": {
+        "intro": "I'm a *Full Stack Developer* expanding into **AI and LLM engineering**, focused on building intelligent applications with modern web technologies.",
+        "description": "I'm a developer from **Dehradun, India**, who loves turning ideas into real products. I build modern web applications with *React*, *Node.js*, *MySQL*, and *Tailwind CSS* — and I'm now diving deep into **AI, LLMs, and AI engineering** to build intelligent, context-aware systems. Always learning, always improving, and focused on writing simple, maintainable code.",
+        "full": "Hi, I'm **Shubham Rawat**. I'm a Full Stack Developer based in Dehradun, India, passionate about building clean and functional web applications.\n\nI work with modern technologies like *React*, *Tailwind CSS*, *Node.js*, and *MySQL*. I enjoy taking an idea from a rough sketch all the way to a deployed product people actually use.\n\nI'm now actively expanding into **AI and LLM engineering** — learning to build intelligent applications with tools like LangChain, OpenAI, and modern AI frameworks. I'm fascinated by how AI can transform user experiences and make applications more capable.\n\nI love learning new things and experimenting with new tools. Whenever I come across a technology that interests me, I like to build something with it to understand it deeply.\n\nI care a lot about writing **clean, understandable, and maintainable** code, and I'm always looking for ways to make my projects better.\n\nMy current goal is to grow as a Full Stack Developer with AI engineering skills, building applications that combine robust backend systems with intelligent AI-powered features."
+    },
+    "manifesto": [
+        "RADICAL TRANSPARENCY",
+        "INTENTIONAL MINIMALISM",
+        "ARCHITECTURAL INTEGRITY",
+        "FIRST PRINCIPLES THINKING",
+        "AI-AUGMENTED DEVELOPMENT",
+        "PRACTICAL AI INTEGRATION",
+        "CONTINUOUS AI LEARNING",
+        "PERFORMANCE WITHOUT COMPROMISE",
+        "SCALABLE VISION"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "NanoQuery",
+            "category": "AI Tool",
+            "year": "2026",
+            "description": "NanoQuery is an AI-powered, privacy-first Text-to-SQL developer workspace. It allows you to convert plain-English questions into complex, fully executable SQL queries instantly, without your private database structure or credentials ever leaving your local machine.\n\nBy combining a React (Vite) frontend and a FastAPI backend running inside isolated Docker containers, NanoQuery securely bridges straight into your local XAMPP MySQL instance.",
+            "image": "/projects/project-1.jpg",
+            "repo": "https://github.com/shubham124rawat/NanoQuery-sql_query_generator",
+            "stack": [
+                "React",
+                "Vite",
+                "FastAPI",
+                "Docker",
+                "MySQL"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Kodix",
+            "category": "AI Tool",
+            "year": "2026",
+            "description": "Kodix is an AI-powered code generation and debugging assistant built with Next.js and the Groq Cloud API (Llama 3.3 70B). It helps developers generate clean code, debug broken logic, explain complex algorithms, and optimize performance — all in real-time with streaming responses. It supports multiple programming languages including Python, JavaScript, TypeScript, Java, and C++.",
+            "image": "/projects/project-2.jpg",
+            "repo": "https://github.com/shubham124rawat/Kodix",
+            "demo": "https://kodix-topaz.vercel.app/",
+            "stack": [
+                "Next.js",
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "Monaco Editor",
+                "Groq Cloud API",
+                "Vercel"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "MathDSL",
+            "category": "Compiler Project",
+            "year": "2026",
+            "description": "MathDSL is a modern web-based compiler for a mathematical domain-specific language. It implements the full compilation pipeline — lexical analysis, parsing, AST generation, intermediate code generation, and symbolic calculus — right in the browser. Write math-like expressions, see live results, and inspect every stage of the compiler pipeline in real-time.",
+            "image": "/projects/project-3.jpg",
+            "repo": "https://github.com/shubham124rawat/MathDSL-compiler",
+            "demo": "https://mathdsl.vercel.app/",
+            "stack": [
+                "Next.js",
+                "TypeScript",
+                "Monaco Editor",
+                "Tailwind CSS",
+                "Framer Motion"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2024",
+            "description": "Started my software journey by learning the fundamentals — HTML, CSS, and JavaScript — and built my first static websites.",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2025",
+            "description": "Discovered React and Tailwind CSS. I built interactive user interfaces and learned how to connect them to backends.",
+            "stack": [
+                "React",
+                "Tailwind CSS"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2026",
+            "description": "Deepened my backend skills with Node.js and MySQL, shipped full-stack applications end to end, and began exploring AI, LLMs, and AI engineering.",
+            "stack": [
+                "Node.js",
+                "MySQL",
+                "Git",
+                "AI & LLMs"
+            ]
+        }
+    ]
+}

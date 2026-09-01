@@ -1,0 +1,104 @@
+{
+    "about": {
+        "intro": "मैं एक *Full Stack Developer* हूँ, जो **AI और LLM engineering** में अपनी क्षमता बढ़ा रहा है, और आधुनिक वेब तकनीकों से बुद्धिमान एप्लिकेशन बनाने पर ध्यान केंद्रित करता है।",
+        "description": "मैं **देहरादून, भारत** का एक डेवलपर हूँ, जो आइडियाज़ को असली प्रोडक्ट में बदलना पसंद करता है। मैं *React*, *Node.js*, *MySQL* और *Tailwind CSS* के साथ आधुनिक वेब एप्लिकेशन बनाता हूँ — और अब मैं **AI, LLMs और AI engineering** में गहराई से तलमिल रहा हूँ ताकि बुद्धिमान, संदर्भ-जागरूक सिस्टम बना सकूँ। हमेशा सीखता रहता हूँ और सरल, बनाए रखने योग्य कोड लिखने पर ध्यान देता हूँ।",
+        "full": "नमस्ते, मैं **शुभम रावत** हूँ। मैं देहरादून, भारत में रहने वाला एक Full Stack Developer हूँ, जो स्वच्छ और कार्यात्मक वेब एप्लिकेशन बनाने का शौक़ रखता है।\n\nमैं *React*, *Tailwind CSS*, *Node.js* और *MySQL* जैसी आधुनिक टेक्नोलॉजीज़ के साथ काम करता हूँ। मुझे एक आइडिया को शुरुआती स्केच से लेकर एक पूरी तरह से डिप्लॉय हुए प्रोडक्ट तक ले जाना पसंद है जिसे लोग वास्तव में इस्तेमाल करते हैं।\n\nमैं अब **AI और LLM engineering** में सक्रिय रूप से अपनी क्षमता बढ़ा रहा हूँ — LangChain, OpenAI और आधुनिक AI फ्रेमवर्क के साथ बुद्धिमान एप्लिकेशन बनाना सीख रहा हूँ। मुझे यह देखकर बहुत आकर्षित होता है कि कैसे AI यूज़र एक्सपीरियेंस को बदल सकता है और एप्लिकेशन को और काबिल बना सकता है।\n\nमुझे नई चीज़ें सीखना और नए टूल्स के साथ प्रयोग करना बहुत पसंद है। जब भी कोई टेक्नोलॉजी मुझे दिलचस्प लगती है, तो मैं उसे गहराई से समझने के लिए उससे कुछ बनाना पसंद करता हूँ।\n\nमैं **स्वच्छ, समझने योग्य और बनाए रखने योग्य** कोड लिखने का बहुत ध्यान रखता हूँ, और हमेशा अपने प्रोजेक्ट्स को बेहतर बनाने के तरीके खोजता रहता हूँ।\n\nमेरा वर्तमान लक्ष्य AI engineering कौशल के साथ एक Full Stack Developer के रूप में बढ़ते रहना है, और ऐसे एप्लिकेशन बनाना है जो मजबूत बैकएंड सिस्टम को बुद्धिमान AI-पावर्ड फीचर्स के साथ जोड़ें।"
+    },
+    "manifesto": [
+        "RADICAL TRANSPARENCY",
+        "INTENTIONAL MINIMALISM",
+        "ARCHITECTURAL INTEGRITY",
+        "FIRST PRINCIPLES THINKING",
+        "AI-AUGMENTED DEVELOPMENT",
+        "PRACTICAL AI INTEGRATION",
+        "CONTINUOUS AI LEARNING",
+        "PERFORMANCE WITHOUT COMPROMISE",
+        "SCALABLE VISION"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "NanoQuery",
+            "category": "AI टूल",
+            "year": "2026",
+            "description": "NanoQuery एक AI-पावर्ड, प्राइवेसी-फर्स्ट Text-to-SQL डेवलपर वर्कस्पेस है। यह आपको सादे अंग्रेजी सवालों को जटल, पूरी तरह से एक्जीक्यूटेबल SQL क्वेरी में तुरंत बदलने की सुविधा देता है, बिना आपके प्राइवेट डेटाबेस संरचना या क्रेडेंशियल्स कभी भी आपके लोकल मशीन से बाहर जाने के।\n\nReact (Vite) फ्रंटएंड और FastAPI बैकएंड को डॉकर कंटेनर में चलाकर, NanoQuery सीधे आपके लोकल XAMPP MySQL इंस्टेंस से सुरक्षित रूप से कनेक्ट होता है।",
+            "image": "/projects/project-1.jpg",
+            "repo": "https://github.com/shubham124rawat/NanoQuery-sql_query_generator",
+            "stack": [
+                "React",
+                "Vite",
+                "FastAPI",
+                "Docker",
+                "MySQL"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Kodix",
+            "category": "AI टूल",
+            "year": "2026",
+            "description": "Kodix Next.js और Groq Cloud API (Llama 3.3 70B) से बना एक AI-पावर्ड कोड जनरेशन और डीबगिंग असिस्टेंट है। यह डेवलपर्स को साफ कोड जनरेट करने, टूटे लॉजिक को डीबग करने, जटिल एल्गोरिदम को समझाने और परफॉर्मेंस ऑप्टिमाइज़ करने में मदद करता है — सब कुछ रियल-टाइम स्ट्रीमिंग के साथ। यह Python, JavaScript, TypeScript, Java और C++ सहित कई प्रोग्रामिंग लैंग्वेज को सपोर्ट करता है।",
+            "image": "/projects/project-2.jpg",
+            "repo": "https://github.com/shubham124rawat/Kodix",
+            "demo": "https://kodix-topaz.vercel.app/",
+            "stack": [
+                "Next.js",
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "Monaco Editor",
+                "Groq Cloud API",
+                "Vercel"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "MathDSL",
+            "category": "कंपाइलर प्रोजेक्ट",
+            "year": "2026",
+            "description": "MathDSL गणितीय डोमेन-स्पेसिफिक लैंग्वेज के लिए एक आधुनिक वेब-आधारित कंपाइलर है। यह पूरे कंपाइलेशन पाइपलाइन — लेक्सिकल एनालिसिस, पार्सिंग, AST जनरेशन, इंटरमीडिएट कोड जनरेशन और सिंबॉलिक कैलकुलस — को ब्राउज़र में इंप्लिमेंट करता है। गणितीय एक्सप्रेशन लिखें, लिव रिजल्ट देखें, और कंपाइलर पाइपलाइन के हर स्टेज को रियल-टाइम में इंस्पेक्ट करें।",
+            "image": "/projects/project-3.jpg",
+            "repo": "https://github.com/shubham124rawat/MathDSL-compiler",
+            "demo": "https://mathdsl.vercel.app/",
+            "stack": [
+                "Next.js",
+                "TypeScript",
+                "Monaco Editor",
+                "Tailwind CSS",
+                "Framer Motion"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2024",
+            "description": "अपना सॉफ्टवेयर सफ़र HTML, CSS और JavaScript की बुनियादी बातें सीखकर शुरू किया, और अपनी पहली स्टैटिक वेबसाइटें बनाईं।",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2025",
+            "description": "React और Tailwind CSS सीखा। मैंने इंटरैक्टिव यूज़र इंटरफेस बनाए और उन्हें बैकएंड से जोड़ना सीखा।",
+            "stack": [
+                "React",
+                "Tailwind CSS"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2026",
+            "description": "Node.js और MySQL के साथ अपने बैकएंड कौशल को गहरा किया, full-stack एप्लिकेशन एंड-टू-एंड शिप किए, और AI, LLMs और AI engineering की खोज शुरू की।",
+            "stack": [
+                "Node.js",
+                "MySQL",
+                "Git",
+                "AI & LLMs"
+            ]
+        }
+    ]
+}
